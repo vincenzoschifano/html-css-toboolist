@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page-header {
+    background-color: white;
+}
+
+body {
+    background-color: rgb(221, 219, 219);
+    
+}
+.page-content {
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.container.bg-white {
+    background-color: white;
+    border-radius: 2%
+}
+span { 
+    display: inline-block;
+    color: green;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.violet {
+    display:inline-block;
+    background-color: rgb(171, 93, 230);
+    color: white;
+    border-radius: 20%;
+    font-size: 10px;
+    padding: 2px;
+    font-size: 10px;
+
+}
+.green {
+    display:inline-block;
+    background-color:rgb(44, 198, 171) ;
+    color: white;
+    border-radius: 20%;
+    font-size: 10px;
+    padding: 2px;
+    font-size: 10px;
+
+}
+
+.orange { 
+    display:inline-block;
+    background-color:rgb(255, 155, 0) ;
+    color: white;
+    border-radius: 20%;
+    font-size: 10px;
+    padding: 2px;
+    font-size: 10px;
+
+}
+
+.purple {
+    display:inline-block;
+    background-color:rgb(236, 74, 157) ;
+    color: white;
+    border-radius: 20%;
+    font-size: 10px;
+    padding: 2px;
+    font-size: 10px;
+}
+.yellowgreen {
+    display:inline-block;
+    background-color: rgb(163, 209, 22);
+    color: white;
+    border-radius: 20%;
+    font-size: 10px;
+    padding: 2px;
+    font-size: 10px;
+
+}
+
+.edit {
+    display:inline-block;
+    background-color:rgb(9, 169, 237);
+    color: white;
+    border-radius: 20%;
+    font-size: 10px;
+    padding: 2px;
+}
+.menu {
+    color: rgb(51, 51, 51);
+    padding: 10px 0px 5px;
+
+}
+ul {
+    list-style-type: none;
+}
+
+div {
+    padding: 15px;
+}
+
+.nope {
+    color: red;
+}
+.task {
+    display: inline-block;
+    background-color: rgb(20, 170, 245);
+    color: black;
+    border-radius: 10%;
+}
